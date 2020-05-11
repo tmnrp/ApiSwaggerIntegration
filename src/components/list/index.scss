@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 200px);
+  overflow: auto;
+}
+
+.item {
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  text-align: center;
+  font-size: 1em;
+  padding: 5px;
+}
+
+.item:hover {
+  filter: brightness(0.9);
+}
+
+.header {
+  font-size: 1.5em;
+}
