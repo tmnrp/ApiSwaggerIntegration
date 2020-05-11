@@ -19,7 +19,7 @@ https://tmnrp.github.io/ApiSwaggerIntegration/
 
 ### GIT repo [link](https://github.com/tmnrp/ApiSwaggerIntegration)
 
-### Todos (if required)
+### Todos (Future enhancement)
 
 - Loadmask
 - Reset counter
