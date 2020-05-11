@@ -22,6 +22,7 @@ https://tmnrp.github.io/ApiSwaggerIntegration/
 ### Todos
 
 - Loadmask
+- Reset counter
 - Dynamic Filtering UI option
 
 ## License
