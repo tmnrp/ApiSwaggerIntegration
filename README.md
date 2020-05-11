@@ -19,11 +19,12 @@ https://tmnrp.github.io/ApiSwaggerIntegration/
 
 ### GIT repo [link](https://github.com/tmnrp/ApiSwaggerIntegration)
 
-### Todos
+### Todos (if required)
 
 - Loadmask
 - Reset counter
 - Dynamic Filtering UI option
+- UTC
 
 ## License
 
